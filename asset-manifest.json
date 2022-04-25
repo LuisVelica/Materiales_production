@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11db18c6.css",
+    "main.js": "/static/js/main.a0ac1492.js",
+    "LazyLayout_client.css": "/static/css/LazyLayout_client.60465177.chunk.css",
+    "LazyLayout_client.js": "/static/js/LazyLayout_client.0b0a6003.chunk.js",
+    "LazyLayout_admin.css": "/static/css/LazyLayout_admin.60465177.chunk.css",
+    "LazyLayout_admin.js": "/static/js/LazyLayout_admin.c01aa9ec.chunk.js",
+    "static/js/787.245fbfc0.chunk.js": "/static/js/787.245fbfc0.chunk.js",
+    "static/js/209.fc642c7e.chunk.js": "/static/js/209.fc642c7e.chunk.js",
+    "static/js/11.83ec2d16.chunk.js": "/static/js/11.83ec2d16.chunk.js",
+    "static/js/7.ca544354.chunk.js": "/static/js/7.ca544354.chunk.js",
+    "static/media/shop.jpg": "/static/media/shop.e6b95ea32218f0bec581.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/logo.jpg": "/static/media/logo.1789b8149a26a6c6f8f6.jpg",
+    "index.html": "/index.html",
+    "main.11db18c6.css.map": "/static/css/main.11db18c6.css.map",
+    "main.a0ac1492.js.map": "/static/js/main.a0ac1492.js.map",
+    "LazyLayout_client.60465177.chunk.css.map": "/static/css/LazyLayout_client.60465177.chunk.css.map",
+    "LazyLayout_client.0b0a6003.chunk.js.map": "/static/js/LazyLayout_client.0b0a6003.chunk.js.map",
+    "LazyLayout_admin.60465177.chunk.css.map": "/static/css/LazyLayout_admin.60465177.chunk.css.map",
+    "LazyLayout_admin.c01aa9ec.chunk.js.map": "/static/js/LazyLayout_admin.c01aa9ec.chunk.js.map",
+    "787.245fbfc0.chunk.js.map": "/static/js/787.245fbfc0.chunk.js.map",
+    "209.fc642c7e.chunk.js.map": "/static/js/209.fc642c7e.chunk.js.map",
+    "11.83ec2d16.chunk.js.map": "/static/js/11.83ec2d16.chunk.js.map",
+    "7.ca544354.chunk.js.map": "/static/js/7.ca544354.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11db18c6.css",
+    "static/js/main.a0ac1492.js"
+  ]
+}
